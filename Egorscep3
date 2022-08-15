@@ -1,0 +1,5 @@
+if game.Players.LocalPlayer.Name == "Egorscep3" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Fallkonf2/by-Nony5-spts/main/Premium"))()
+    else
+    print("NotWhiteListed")
+end
